@@ -1,13 +1,16 @@
-### Hi there, I'm Suman Moond 👋
+### Hi there, I'm Suman Moond <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 ### I'm a Student!!
 
 - 🔭 I’m currently working on my project
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...Linkedin(www.linkedin.com/in/sumanmoond/)
-- 😄 Pronouns: ...She/Her
+- 📫 How to reach me: ...Linkedin
+- 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ...My favorite time of the day is at dawn because it feels calm.
+
+
+
 
 ### Connect With Me
 
@@ -17,3 +20,5 @@
 <a href="sumanmoond2021@gmail.com" target="_blank">
   <img align="left" alt="Suman's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+
