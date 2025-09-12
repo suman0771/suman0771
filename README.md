@@ -8,24 +8,28 @@
 <b>Welcome to Suman's Github</b>
  <p> &ensp; &ensp; &ensp;  <img src="https://media.giphy.com/media/WMRb9p6N4mtIRtE2zr/giphy.gif" width="70px"></p>
 
-- 🔭 I’m currently working on my project
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...Linkedin
-- 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ...My favorite time of the day is at dawn because it feels calm.
+- 🔭 I’m currently working on my project.
+- 🌱 I’m currently learning JavaScript.
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about anything!
+- 📫 How to reach me: LinkedIn
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: My favourite time of day is dawn because it feels calm.
+
 
 ### Languages and Tools
-<code><img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming"/>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Logo"/></code>
+<div>
+  <img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming" style="margin-right:10px;"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" style="margin-right:10px;"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="margin-right:10px;"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="margin-right:10px;"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="margin-right:10px;"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="margin-right:10px;"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="margin-right:10px;"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" style="margin-right:10px;"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java Logo" style="margin-right:10px;"/>
+</div>
+
 ### CP Profile
 GeeksForGeeks <a href="https://auth.geeksforgeeks.org/user/sumanmoond2021/"> https://auth.geeksforgeeks.org/user/sumanmoond2021/profile/ </a>   
 Hackerrank <a href="https://www.hackerrank.com/sumanmoond2021?hr_r=1"> https://www.hackerrank.com/sumanmoond2021/ </a>                
