@@ -1,6 +1,8 @@
 ### Hi there, I'm Suman Moond <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <sup><h3>Visitors </sup> <sub>
-![Visitors](https://img.shields.io/badge/Visitors-12345-blue)</sub></h3>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=USERNAME.REPOSITORY)</sub></h3>
+
+
 
 
 
